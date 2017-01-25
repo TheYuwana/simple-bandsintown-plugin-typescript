@@ -1,0 +1,32 @@
+{
+  "name": "simple-bandsintown-plugin-typescript",
+  "version": "1.0.0",
+  "description": "A simpe bandsintown plugin with typescript",
+  "main": "Bandsintown.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hopeIndustries/simple-bandsintown-plugin-typescript.git"
+  },
+  "keywords": [
+    "Bandsintown",
+    "plugin",
+    "typescript"
+  ],
+  "author": "Jonathan van Putten",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hopeIndustries/simple-bandsintown-plugin-typescript/issues"
+  },
+  "homepage": "https://github.com/hopeIndustries/simple-bandsintown-plugin-typescript#readme",
+  "devDependencies": {
+    "browserify": "^14.0.0",
+    "gulp": "^3.9.1",
+    "gulp-typescript": "^3.1.4",
+    "tsify": "^3.0.0",
+    "typescript": "^2.1.5",
+    "vinyl-source-stream": "^1.1.0"
+  }
+}
